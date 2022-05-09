@@ -25,7 +25,16 @@ local spears = {
     "thethunderbolt",
     "genie",
     "trident",
-    "jadedcrystal"
+    "jadedcrystal",
+    "sharpenedstick",
+    "explosivespear",
+    "carrotspear",
+    "seashellspear",
+    "pitchfork",
+    "pineconespear",
+    "lovestone",
+    "candycanespear",
+    "theforgottenspear"
 }
 
 return spears
