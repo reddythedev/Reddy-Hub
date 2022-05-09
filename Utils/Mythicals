@@ -1,4 +1,4 @@
-local mythicals = {
+mythicals = {
     "sunfish",
     "bluefish",
     "tigerfish",
