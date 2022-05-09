@@ -27,3 +27,5 @@ local spears = {
     "trident",
     "jadedcrystal"
 }
+
+return spears
