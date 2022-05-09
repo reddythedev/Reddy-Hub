@@ -10,3 +10,5 @@ mythicals = {
     "purplecandyfish",
     "gemheartfish"
 }
+
+return mythicals
