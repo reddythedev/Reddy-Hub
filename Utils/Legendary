@@ -1,0 +1,25 @@
+local legendary = {
+    "sharktooth",
+    "oversizedsharktooth",
+    "orcahead",
+    "whalekey",
+    "neonsharktooth",
+    "neonorcahead",
+    "swordfish",
+    "rainbowparrotfish",
+    "largemouthbass",
+    "magmaswordfish",
+    "snapper",
+    "cobia",
+    "piranha",
+    "redrockfish",
+    "flounder",
+    "sandray",
+    "yellowsnapper",
+    "yellowfintuna",
+    "foxfish",
+    "pinkcandyfish",
+    "brokenheartfish",
+}
+
+return legendary
