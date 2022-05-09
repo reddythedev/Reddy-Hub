@@ -8,7 +8,12 @@ local mythicals = {
     "seabear",
     "ninjafish",
     "purplecandyfish",
-    "gemheartfish"
+    "gemheartfish",
+    "babyoversizedgreatwhiteshark",
+    "babyneonkillerwhale",
+    "babyneongreatwhiteshark",
+    "babygreatwhiteshark",
+    "babykillerwhale"
 }
 
 return mythicals
