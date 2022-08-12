@@ -22,7 +22,9 @@ elseif game.PlaceId == 694768217 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
 elseif game.PlaceId == 6878438976 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Developer%20Inc'))()
-else 
+elseif game.PlaceId == 8585657145 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/Reddy-Hub/main/Anime%20Hero%20Simulator'))()
+else
     print("Game is not supported!")
 end
 
