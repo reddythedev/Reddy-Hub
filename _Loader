@@ -1,32 +1,4 @@
-if game.PlaceId == 2866967438 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Fishing%20Simulator'))()
-elseif game.PlaceId == 885450884 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/The%20Grand%20Crossing'))()
-elseif game.PlaceId == 6677985923 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Millionaire%20Empire%20Tycoon'))()
-elseif game.PlaceId == 2248408710 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Destruction%20Simulator'))()
-elseif game.PlaceId == 648362523 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 834827615 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 834829150 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 1410026010 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 1426048327 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 901462028 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 694768217 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Breaking%20Point'))()
-elseif game.PlaceId == 6878438976 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/Developer%20Inc'))()
-elseif game.PlaceId == 8585657145 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/Reddy-Hub/main/Anime%20Hero%20Simulator'))()
-else
-    print("Game is not supported!")
-end
+loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/'..game.PlaceId))()
 
 local Settings = {
     InviteCode = "YFgFhUWNFC"
