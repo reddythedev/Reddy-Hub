@@ -2,6 +2,6 @@ pcall(function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/'..game.PlaceId))()
 end)
 
-if game.PlaceId == 834829150 or game.PlaceId == 1410026010 or game.PlaceId == 1426048327 or game.PlaceId == 901462028 or game.PlaceId == 1436726276 or game.PlaceId == 987684187 then
+if game.PlaceId == 834829150 or game.PlaceId == 1410026010 or game.PlaceId == 1426048327 or game.PlaceId == 901462028 or game.PlaceId == 1436726276 or game.PlaceId == 987684187 or game.PlaceId == 834827615 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/648362523'))()
 end
