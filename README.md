@@ -5,5 +5,5 @@ Join my discord server to stay updated and to get the key! https://discord.gg/YF
 
 Loadstring: 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/reddythedev/robloxthings/main/_Loader'))()
+loadstring(game:HttpGet('https://reddyhub.xyz/loader.html'))()
 ````
