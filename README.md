@@ -1,7 +1,7 @@
 # Reddy-Hub
 Simple roblox hub, support few games as of now.
 
-Join my discord server to stay updated and to get the key! https://discord.gg/reddyhub
+Join my discord server to stay updated and to get the key! https://discord.gg/UrKeNmZZ4W
 
 Loadstring: 
 ```lua
